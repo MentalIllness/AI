@@ -31,6 +31,6 @@
 
 > Keep in mind that there is a 3% chance that the AI will make a mistake. :)
 
-#Extra information
+# Extra information
 
 > I found many codes of creating this AI but they are ALL OUTDATED becauseee the newest version of TensorFlow requires your image to be (1, 224, 224, 3) so I had to reshape the image and change the transparency by using the CV2 module ( not the TensorFlow module as it's supposed to be ). Maybe that's not the best performance option, but it works perfectly if you want to test out what AI can do. I haven't test it for with a big amount of requests but I do not recommend it for large tasks ( comparing thousands images at the same time )

@@ -2,7 +2,7 @@
 
 # Description
 
-> Simply, this AI detects a photo from your PC or an URL and give you are response if it's a cat or a dog
+> Simply, this AI detects a photo from your PC or an URL and give you a response if it's a cat or a dog
 
 # Set-up
 > Creating AI

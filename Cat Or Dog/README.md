@@ -1,6 +1,4 @@
-# Cat Or Dog
-
-> My first AI
+# Cat Or Dog ( My First AI )
 
 # Description
 
